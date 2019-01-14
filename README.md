@@ -5,4 +5,7 @@
 
 • Conversion rate prediction and recommendation
 
+• Fan Base Analysis for the British rock band Muse, based on the data collected from Reddit r/Muse by u/trickfinger96
+
+
 TBC...
