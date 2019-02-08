@@ -7,5 +7,7 @@
 
 • Fan Base Analysis for the British rock band Muse, based on the data collected from Reddit r/Muse by u/trickfinger96
 
+• Insights drawn from bank account transaction information
+
 
 TBC...
