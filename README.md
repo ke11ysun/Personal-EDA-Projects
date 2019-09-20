@@ -7,8 +7,6 @@
 
 • Fan Base Analysis for the British rock band Muse, based on the data collected from Reddit r/Muse by u/trickfinger96
 
-• Insights drawn from bank account transaction information
-
 • Using my IMDB checkins and ratings to predict which movie/tv I should prioritize watching from my watchlist
 
 
