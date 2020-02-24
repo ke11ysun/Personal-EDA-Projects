@@ -15,11 +15,11 @@
 
 • Promotion events recommendations with e-commerce user buying history (Looker)
 
+• Chocolate brands' TV campaign commercial data and strategy analysis 
+
 • TBC...
 
 ## B)
-
-(^ that was a face)
 
 Hi, it turns out I'm also using this repository as a little self-introduction because these are the fun things I've done  with my techincal skills whatever you call it although I doubt if anyone will see it and the intro itself is mostly copy-pasted from LinkedIn:
 
@@ -27,5 +27,5 @@ This is Kelly from a CS background and have genuine interest in observing human 
 
 I'm actively looking for a full time position in data analyst/data science field. I would love to use data manipulation skills and ML/DL knowledge to find fun or mind-blowing facts, aesthetically visualize them, offer business insights and make interesting products. 
 
-I'm a huge media consumer in my spare time. I constantly dig for critically acclaimed old films; I'm a heavy listener of heavy metal (even attended a course about it!) and I like progressive stuff; also a comedy lover. That is why I've got all these projects, because I enjoy peeking *INTO* the data and letting the truth(?) emerge!
+I'm a huge media consumer in my spare time. I constantly dig for critically acclaimed old films; I'm a heavy listener of heavy metal (even attended a course about it!) and I like progressive stuff; also a comedy lover. That is why I've got all these projects, because I enjoy peeking *INTO* the data and letting the truth emerge!
 
